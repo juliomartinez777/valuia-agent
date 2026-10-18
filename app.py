@@ -140,7 +140,7 @@ def evaluar_medidas(res):
 st.title("🏠 VALUIA-AGENT")
 st.caption("Agente inteligente que estima el precio de venta de una propiedad residencial, "
            "publica un rango razonable y aprende del precio final de cada venta. "
-           "Tópicos Especiales 2026-II · Julio Martinez y Jairo Mendoza")
+           "Inteligencia Artificial 2026-II · Julio Martinez y Jairo Mendoza")
 if AVISO_MODELO:
     st.warning(AVISO_MODELO)
 

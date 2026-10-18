@@ -2,7 +2,7 @@
 
 Agente inteligente que estima el precio de venta de una propiedad residencial a partir de sus características, entrega un precio de referencia con un rango razonable y aprende del precio final de cada venta.
 
-Proyecto del curso **Tópicos Especiales 2026-II**, Universidad Tecnológica de Bolívar.
+Proyecto del curso **Inteligencia Artificial 2026-II**, Universidad Tecnológica de Bolívar.
 Autores: Julio Martinez y Jairo Mendoza.
 
 ## Qué hace el agente
