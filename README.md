@@ -96,4 +96,8 @@ Evaluado una sola vez sobre 586 casas de prueba que el modelo no vio al entrenar
 
 ## Evidencia de funcionamiento
 
-Enlace al video o a la plataforma desplegada: *(pendiente)*
+Plataforma desplegada (Streamlit Community Cloud): https://valuia-agentt.streamlit.app/
+
+Instrucciones de uso y casos de prueba sugeridos: están dentro de la propia aplicación, en el desplegable "Instrucciones de uso y casos de prueba sugeridos".
+
+Nota: las aplicaciones gratuitas de Streamlit Community Cloud se duermen tras un tiempo sin visitas. Si aparece el mensaje "This app has gone to sleep", haz clic en "Yes, get this app back up!" y espera un par de minutos.
