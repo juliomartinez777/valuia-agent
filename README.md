@@ -83,7 +83,7 @@ Evaluado una sola vez sobre 586 casas de prueba que el modelo no vio al entrenar
 
 ## Diferencias entre el diseño y la implementación
 
-- El modelo usa 4 variables adicionales a las del diseño inicial: `OverallCond`, `TotalBsmtSF`, `LotArea` y `Fireplaces`.
+- El modelo usa 13 variables. Frente al primer modelo (9 variables) se agregaron `OverallCond`, `TotalBsmtSF`, `LotArea` y `Fireplaces`; el diseño ya mencionaba la condición general.
 - Ames Housing usa pies cuadrados y dólares; el diseño hablaba de metros cuadrados.
 - Se agregaron las medidas M2, M3 y M4 a la medida original (M1, MAPE menor al 10 %).
 - Los valores de MAPE y R² del diseño inicial eran proyecciones; los valores reales son los de este repositorio.
